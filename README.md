@@ -36,13 +36,13 @@ Usage
 Generate a new analysis directory using:
 
 ```
-cookiecutter gh:lazappi/cookiecutter-r-analysis
+cookiecutter gh:uashogeschoolutrecht/cookiecutter-r-analysis
 ```
 
 If this doesn't work try using SSH with the full path:
 
 ```
-cookiecutter git+ssh://git@github.com/lazappi/cookiecutter-r-analysis.git
+cookiecutter git+ssh://git@github.com/uashogeschoolutrecht/cookiecutter-r-analysis.git
 ```
 
 You will then be asked some questions to set up your project. Leaving answers
